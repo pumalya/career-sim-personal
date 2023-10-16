@@ -36,3 +36,7 @@ footer{
 body{
     margin: 0;
 }
+img{
+    height: 400px;
+    width: 300px;
+}
